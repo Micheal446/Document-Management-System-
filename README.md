@@ -1,4 +1,4 @@
-# Enterprise Document Management System
+# Document Management System
 
 This project describes a proposed system for centralizing document storage, managing approval workflows, and ensuring secure document tracking across organizational departments.
 
