@@ -12,8 +12,17 @@ The figures in the feasibility analysis are estimates for this class assignment.
 
 ---
 
-## Contributors
+## Team
+| Name | Role |
+|------|------|
+|  Omar Ayman Shebl Motawea | Project Manager / Business Analyst |
+|  Michael Erian Ayad Sadhom| System Designer / UI/UX Designer |
+|  Gamal Hamed Gamal Aldin  | Documentation & QA |
 
-| No. | Student Name | Student ID |
-| --- | --- | --- |
-| 1 | Michael Erian Ayad Sadhom | 1202540830 |
+## Tools
+- GitHub: source control and documentation
+- Trello: task organization
+- Excel: economic feasibility calculations
+
+## Project Board
+Trello: 
