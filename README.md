@@ -26,3 +26,4 @@ The figures in the feasibility analysis are estimates for this class assignment.
 
 ## Project Board
 Trello: 
+https://trello.com/invite/b/6ac7af7f3e9c3f65af5c13f8/ATTI10d6e06498620144829808d1c4dbb462CCB9D800/library-management-system
