@@ -20,18 +20,17 @@ The Document Management System (DMS) is a comprehensive systems analysis and des
 ## Group : Thursday : 11:00 AM
 
 ## Repository Structure & Deliverables
-This repository contains all documentation deliverables and analysis files structured week-by-week across the course labs (Labs 01 to 06 completed):
 
-text
-Document-Management-System/
-├── README.md                               # Project documentation and team overview
-├── DMS_Feasibility_Cost_Benefit.xlsx       # Economic feasibility financial model (ROI, NPV, BEP)
-├── Lab01_Project_Initiation.docx           # Project initiation, scope, and team definition
-├── Lab02_System_Request_and_Feasibility.docx # System request and initial feasibility study
-├── Lab03_Methodology.docx                  # Methodology selection (Waterfall/Agile hybrid justification)
-├── Lab04_Economic_Feasibility.docx         # Detailed economic feasibility report and sensitivity analysis
-├── Lab05_Staff_Plan.pdf                    # Staff plan, roles, and task ownership structure
-└── Lab06_Work_Plan.pdf                     # Work breakdown structure (WBS), milestones, and timeline controls
+| File | Description |
+|------|-------------|
+| `README.md` | Project documentation and team overview |
+| `DMS_Feasibility_Cost_Benefit.xlsx` | Economic feasibility financial model (ROI, NPV, BEP) |
+| `Lab01_Project_Initiation.docx` | Project initiation, scope, and team definition |
+| `Lab02_System_Request_and_Feasibility.docx` | System request and initial feasibility study |
+| `Lab03_Methodology.docx` | Methodology selection (Waterfall/Agile hybrid justification) |
+| `Lab04_Economic_Feasibility.docx` | Detailed economic feasibility report and sensitivity analysis |
+| `Lab05_Staff_Plan.pdf` | Staff plan, roles, and task ownership structure |
+| `Lab06_Work_Plan.pdf` | Work breakdown structure (WBS), milestones, and timeline controls |
 
 ## Team
 | Name | Role |
