@@ -4,12 +4,12 @@ This project describes a proposed system for centralizing document storage, mana
 
 # Document Management System (DMS)
 
-## 📌 Project Overview
+##  Project Overview
 The Document Management System (DMS) is a comprehensive systems analysis and design project aimed at replacing manual paper-based filing, email attachments, and unorganized cloud storage with a centralized, secure, and automated digital solution. The system provides secure document upload, multi-level approval workflows, comprehensive audit trails, advanced search capabilities, and strict version control.
 
 ---
 
-## 👥 Project Team
+## Project Team
 | Name | Role | Core Responsibilities |
 | :--- | :--- | :--- |
 | Omar Ayman Shebl Motawea | Project Manager / Business Analyst | Oversees project timeline, manages Trello board, gathers business requirements, and analyzes workflow needs. |
@@ -17,11 +17,12 @@ The Document Management System (DMS) is a comprehensive systems analysis and des
 | Gamal Hamed Gamal Aldin | Documentation & QA | Writes, formats, and organizes documentation deliverables, and performs quality assurance checks on all lab outputs. |
 
 ---
+## Group : Thursday : 11:00 AM
 
-## 📂 Repository Structure & Deliverables
+## Repository Structure & Deliverables
 This repository contains all documentation deliverables and analysis files structured week-by-week across the course labs (Labs 01 to 06 completed):
 
-`text
+text
 Document-Management-System/
 ├── README.md                               # Project documentation and team overview
 ├── DMS_Feasibility_Cost_Benefit.xlsx       # Economic feasibility financial model (ROI, NPV, BEP)
